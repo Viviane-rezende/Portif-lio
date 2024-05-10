@@ -1,0 +1,79 @@
+body {
+    
+    margin: auto;
+    background-color: black;
+   
+}
+
+.div0{
+    
+    margin-top: 0%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#fotoperfil{
+    width: 250px;
+    border-radius: 50%;
+    
+}
+
+
+h1{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    color: aliceblue;
+}
+
+P{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: aliceblue;
+}
+
+#email{
+    margin-left: 32%;
+    width: 30px;
+    height: 30px;
+}
+
+
+#whatsapp{
+    align-items: center;
+    width: 30px;
+    height: 30px;
+
+}
+
+
+#git{
+
+    width: 30px;
+    height: 30px;
+}
+
+.div3{
+    padding: 5px;
+    background-color:indigo
+}
+
+#habilidades{
+    width: 500px;
+}
+
+.div4{
+    background-color: indigo;
+    padding: 15px;
+    display: flexbox;
+    align-items: center;
+}
+#rbd{
+    width: 125px;
+}
+
+footer{
+    margin-bottom: -15%;
+    background-color: indigo;
+}
