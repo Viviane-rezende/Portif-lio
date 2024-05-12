@@ -1,4 +1,4 @@
-  O presente projeto trata-se de um portifólio simples feito com HTML e CSS.
+  O presente projeto trata-se de um portfólio simples feito com HTML e CSS.
   O projeto conta com aglumas sessões, sendo a primeira sessão de informações pessoais, como foto de perfil, nome e principais links.
   Também há uma sessão "sobre mim" descrevendo brevemente algumas informações sobre vida acadêmica e carreira.
   A sessão de habilidades mostra através de imagens as competências em grau de capacidade de acordo com a escala likert.
