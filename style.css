@@ -2,7 +2,23 @@ body {
     
     margin: auto;
     background-color: black;
-   
+ 
+nav{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: antiquewhite;
+    display: flex;
+    justify-content: end;
+    margin-right: 25px;
+}
+
+nav>ul{
+    display: flex;
+    list-style: none;
+}
+
+
+li{
+    margin: 10px;
 }
 
 .div0{
@@ -57,6 +73,12 @@ P{
 .div3{
     padding: 5px;
     background-color:indigo
+}
+
+.habilidades{
+    display: flex;
+    justify-content: center;
+
 }
 
 #habilidades{
